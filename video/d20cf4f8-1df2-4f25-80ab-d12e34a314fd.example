@@ -1,0 +1,14 @@
+DATABASE_URL=postgresql://user:password@host:port/railway
+JWT_SECRET=mets_une_longue_chaine_secrete_ici_minimum_32_caracteres
+GITHUB_TOKEN=ghp_tonTokenGitHub
+GITHUB_OWNER=alexbg577
+GITHUB_MEDIA_REPO=mon-app-media
+GITHUB_DATA_REPO=mon-app-data
+NODE_ENV=production
+PORT=3000
+
+# Email pour "mot de passe oublié" (optionnel)
+# Utilise un compte Gmail avec un "App Password" (pas ton vrai mdp)
+# Va sur myaccount.google.com -> Sécurité -> Mots de passe des applications
+EMAIL_USER=toncompte@gmail.com
+EMAIL_PASS=xxxx_xxxx_xxxx_xxxx
